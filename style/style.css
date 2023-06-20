@@ -1,0 +1,62 @@
+body{
+    background-color: #1E90FF;
+}
+
+.background object {
+    position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index:-1;
+}
+
+.leftbottom {
+    margin-top: 5%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+.topright {
+    position: fixed;
+    top: 0; 
+    right: 0;
+
+}
+
+.card{
+    position: absolute;
+    width: 512px;
+    height: 731px;
+    left: 723px;
+    top: 62px;
+    margin-left: 400px;
+    
+}
+
+
+.card .tulisan{
+    position: absolute;
+    width: 345px;
+    height: 72px;
+    left: 118px;
+    top: 157px;
+    font-style: normal;
+}
+
+.welend{
+    position: absolute;
+    width: 405px;
+    height: 97px;
+    left: 54px;
+    top: 96px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 84px;
+    line-height: 126px;
+    
+    color: #FFFFFF;
+}
+
